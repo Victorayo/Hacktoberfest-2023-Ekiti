@@ -13,4 +13,6 @@ check out this short video for a guide: https://youtu.be/YA_RVcEGZsg?si=wA-DKBCQ
 
 ![HackToberFest-Ekiti](https://github.com/OSCA-Ado-Ekiti/Hacktoberfest-2023-Ekiti/assets/85078495/8becbea0-ef2e-4a9a-b79e-7a3e34a211fd)
 
+## EVENTTRAKKA FRONTEND REPOSITORY
+
 # Hacktoberfest-2023-Ekiti
